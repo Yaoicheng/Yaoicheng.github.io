@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>人工智能的概念</title>
+    <link href="/2024/09/07/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E6%A6%82%E5%BF%B5/"/>
+    <url>/2024/09/07/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E6%A6%82%E5%BF%B5/</url>
+    
+    <content type="html"><![CDATA[<h2 id="智能的概念"><a href="#智能的概念" class="headerlink" title="智能的概念"></a>智能的概念</h2><p><strong>影响较大的观点</strong>：</p><ol><li>思维理论：智能产生于思维。</li><li>知识阈值理论：智能是在巨大的搜索空间中（庞大的知识储量）迅速找到一个满意解的能力。</li></ol><p><strong>可以认为：智能是知识与智力的总和。其中，知识是一切智能行为的基础，而智能是获取知识并应用知识求解问题的能力。</strong></p><p><strong>智能的特征与人工智能研究的基本内容</strong></p><pre><code class=" mermaid">graph LRA---&gt;L(知识表示)A(智能的特征)--&gt;B(具有感知能力)--&gt;F(机器感知)--&gt;J(机器视觉/模式识别/自然语言处理)A--&gt;C(具有记忆与思维能力)--&gt;G(机器思维)A--&gt;D(具有学习能力)--&gt;H(机器学习)--&gt;K(机器学习)A--&gt;E(具有行为能力)--&gt;I(机器行为)</code></pre><h2 id="人工智能的概念"><a href="#人工智能的概念" class="headerlink" title="人工智能的概念"></a>人工智能的概念</h2><p>所谓人工智能就是用人工的方法在机器（计算机）上实现的智能，也称为机器智能（machine learning）</p><p>人工智能是一门研究如何构造智能机器（智能计算机）或智能系统，使它能模拟、延伸、扩展人类智能的学科</p><p>人工智能大体可分为专用人工智能和通用人工智能，通用人工智能尚处于起步阶段</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>人工智能</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>AI</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>栈基本操作的实现</title>
     <link href="/2024/08/29/%E6%A0%88%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E7%9A%84%E5%AE%9E%E7%8E%B0/"/>
     <url>/2024/08/29/%E6%A0%88%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E7%9A%84%E5%AE%9E%E7%8E%B0/</url>
